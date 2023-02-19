@@ -27,7 +27,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["C:/angular/shop/node_modules/alertifyjs/build/alertify.min.js"]  
           },
           "configurations": {
             "production": {
@@ -90,6 +90,7 @@
               "src/styles.css"
             ],
             "scripts": []
+            
           }
         }
       }
